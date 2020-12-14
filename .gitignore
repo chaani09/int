@@ -1,2 +1,4 @@
-*.agdai
-MAlonzo/**
+#include<studio.h
+{
+  Print("hello"\n)
+}
